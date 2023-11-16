@@ -17,7 +17,7 @@ References :
 ## Installation
 
 ```
-go get github.com/gojsonschema/gojsonschema
+go get github.com/xeipuuv/gojsonschema
 ```
 
 Dependencies :
@@ -35,7 +35,7 @@ package main
 
 import (
     "fmt"
-    "github.com/gojsonschema/gojsonschema"
+    "github.com/xeipuuv/gojsonschema"
 )
 
 func main() {
